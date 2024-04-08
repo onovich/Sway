@@ -59,8 +59,9 @@ while (timer > 0) {
 }
 ```
 
-# UPM URL
-ssh://git@github.com/onovich/Sway.git?path=/Assets/com.mortise.sway#main
+# Dependency
+Math library
+[Abacus](https://github.com/onovich/Abacus)
 
 # UPM URL
 ssh://git@github.com/onovich/Abacus.git?path=/Assets/com.mortise.abacus#main
