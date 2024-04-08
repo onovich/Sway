@@ -11,11 +11,11 @@ The project also provides a wealth of runtime examples.<br/>
 **项目内也提供了丰富的运行时示例。**
 
 # Unity Support
-This library does not depend on the Unity Engine (but relies on [MortiseFrame.Abacus](https://github.com/onovich/MortiseFrame.Abacus)) and can be used for server-side or other projects that prohibit dependency on the Unity Engine.<br/>
-**这个库不依赖 Unity Engine（而依赖 [MortiseFrame.Abacus](https://github.com/onovich/MortiseFrame.Abacus)）, 可用于服务端或者其他禁止依赖 Unity Engine 的项目。**
+This library does not depend on the Unity Engine (but relies on [Abacus](https://github.com/onovich/Abacus)) and can be used for server-side or other projects that prohibit dependency on the Unity Engine.<br/>
+**这个库不依赖 Unity Engine（而依赖 [Abacus](https://github.com/onovich/Abacus)）, 可用于服务端或者其他禁止依赖 Unity Engine 的项目。**
 
-[MortiseFrame.Swing](https://github.com/onovich/MortiseFrame.Swing) is the predecessor of this library, which is also a version dependent on UnityEngine like the current library.<br/>
-**[MortiseFrame.Swing](https://github.com/onovich/MortiseFrame.Swing) 是这个库的前身，它也是当前库的依赖 UnityEngine 版。**
+[Swing](https://github.com/onovich/Swing) is the predecessor of this library, which is also a version dependent on UnityEngine like the current library.<br/>
+**[Swing](https://github.com/onovich/Swing) 是这个库的前身，它也是当前库的依赖 UnityEngine 版。**
 
 You can also choose to use the MortiseFrame.Abacus extension library [MortiseFrame.AbacusExtension](https://github.com/onovich/MortiseFrame.AbacusExtension) as glue to stitch together Sway and the Unity Engine as needed.<br/>
 **你也可以视需要选择用 MortiseFrame.Abacus 的扩展库 [MortiseFrame.AbacusExtension](https://github.com/onovich/MortiseFrame.AbacusExtension) 作为胶水，自己缝合 Sway 和 Unity Engine.**
