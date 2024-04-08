@@ -1,0 +1,24 @@
+{
+    "name": "MortiseFrame.Sway.Test",
+    "rootNamespace": "",
+    "references": [
+        "UnityEditor.TestRunner",
+        "MortiseFrame.Abacus",
+        "MortiseFrame.Sway"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
